@@ -1,9 +1,13 @@
-System Information:
-Operating System: Windows 11 10.0
+System Information: Operating System: Windows 11 10.0
+
 Processor: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+
 Available Processors: 16
+
 Total Memory: 248 MegaBytes
+
 Free Space: 244 MegaBytes
+
 Maximum Memory: 3944 MegaBytes
 
 --------------------------------------------------------
