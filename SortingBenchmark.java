@@ -106,7 +106,7 @@ public class SortingBenchmark {
             arr[i] = temporary;
         }
         // Display the sorted array
-        //System.out.println("Sorted Array: " + Arrays.toString(arr));
+        System.out.println("Sorted Array: " + Arrays.toString(arr));
     }
 
     // Generate an array of random elements within a specified range
